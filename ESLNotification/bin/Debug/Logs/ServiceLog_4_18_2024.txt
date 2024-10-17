@@ -1,0 +1,23 @@
+Timer started at: 4/18/2024 9:38:26 AM
+SendEmailWithEmbeddedPhoto - Could not find file 'D:\Systems\Windows_Services\Expiry_Security_License_Notification\ESLNotification\ESLNotification\bin\Debug\istnads.jpg'.
+Timer elapsed at: 4/18/2024 9:40:00 AM
+Timer started at: 4/18/2024 9:40:00 AM
+Timer started at: 4/18/2024 9:42:15 AM
+SendEmailWithEmbeddedPhoto - Could not find file 'D:\Systems\Windows_Services\Expiry_Security_License_Notification\ESLNotification\ESLNotification\bin\Debug\istnads.jpg'.
+Timer elapsed at: 4/18/2024 9:44:00 AM
+Timer started at: 4/18/2024 9:44:00 AM
+Timer started at: 4/18/2024 10:55:45 AM
+Timer elapsed at: 4/18/2024 10:58:00 AM
+Timer started at: 4/18/2024 10:58:00 AM
+Notification for 0352329921 - PANELO JR., DALMACIO L. in mib1_taguig was sent.
+Notification for M1-2111001 - SALEMO, PAOLO G. in mib1_taguig was sent.
+Timer started at: 4/18/2024 11:31:35 AM
+Timer elapsed at: 4/18/2024 11:33:00 AM
+Timer started at: 4/18/2024 11:33:00 AM
+Notification for M1-2111001 - SALEMO, PAOLO G. in mib1_taguig was sent.
+Notification for 0352329921 - PANELO JR., DALMACIO L. in mib1_taguig was sent.
+Timer started at: 4/18/2024 11:42:40 AM
+Timer elapsed at: 4/18/2024 11:44:00 AM
+Timer started at: 4/18/2024 11:44:00 AM
+Notification for 0352329921 - PANELO JR., DALMACIO L. in mib1_taguig was sent.
+Notification for M1-2111001 - SALEMO, PAOLO G. in mib1_taguig was sent.

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Systems\\Windows_Services\\Expiry_Security_License_Notification\\ESLNotification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCF0052-CB73-4EDA-A868-C95372B5C393}|ESLNotification\\ESLNotification.csproj|d:\\systems\\windows_services\\expiry_security_license_notification\\eslnotification\\eslnotification\\elsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBCF0052-CB73-4EDA-A868-C95372B5C393}|ESLNotification\\ESLNotification.csproj|solutionrelative:eslnotification\\elsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCF0052-CB73-4EDA-A868-C95372B5C393}|ESLNotification\\ESLNotification.csproj|D:\\Systems\\Windows_Services\\Expiry_Security_License_Notification\\ESLNotification\\eslnotification\\elsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBCF0052-CB73-4EDA-A868-C95372B5C393}|ESLNotification\\ESLNotification.csproj|solutionrelative:eslnotification\\elsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCF0052-CB73-4EDA-A868-C95372B5C393}|ESLNotification\\ESLNotification.csproj|D:\\Systems\\Windows_Services\\Expiry_Security_License_Notification\\ESLNotification\\eslnotification\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FBCF0052-CB73-4EDA-A868-C95372B5C393}|ESLNotification\\ESLNotification.csproj|solutionrelative:eslnotification\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ELSNotification.cs",
+              "DocumentMoniker": "D:\\Systems\\Windows_Services\\Expiry_Security_License_Notification\\ESLNotification\\ESLNotification\\ELSNotification.cs",
+              "RelativeDocumentMoniker": "ESLNotification\\ELSNotification.cs",
+              "ToolTip": "D:\\Systems\\Windows_Services\\Expiry_Security_License_Notification\\ESLNotification\\ESLNotification\\ELSNotification.cs",
+              "RelativeToolTip": "ESLNotification\\ELSNotification.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAgwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:18:12.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ELSNotification.cs [Design]",
+              "DocumentMoniker": "D:\\Systems\\Windows_Services\\Expiry_Security_License_Notification\\ESLNotification\\ESLNotification\\ELSNotification.cs",
+              "RelativeDocumentMoniker": "ESLNotification\\ELSNotification.cs",
+              "ToolTip": "D:\\Systems\\Windows_Services\\Expiry_Security_License_Notification\\ESLNotification\\ESLNotification\\ELSNotification.cs [Design]",
+              "RelativeToolTip": "ESLNotification\\ELSNotification.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:18:10.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Systems\\Windows_Services\\Expiry_Security_License_Notification\\ESLNotification\\ESLNotification\\App.config",
+              "RelativeDocumentMoniker": "ESLNotification\\App.config",
+              "ToolTip": "D:\\Systems\\Windows_Services\\Expiry_Security_License_Notification\\ESLNotification\\ESLNotification\\App.config",
+              "RelativeToolTip": "ESLNotification\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-16T02:41:26.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESLNotification", "ESLNotification\ESLNotification.csproj", "{FBCF0052-CB73-4EDA-A868-C95372B5C393}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ESLNInstaller", "ESLNInstaller\ESLNInstaller.vdproj", "{6F954EB2-614B-48A1-9856-C9CB83F2AAB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBCF0052-CB73-4EDA-A868-C95372B5C393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCF0052-CB73-4EDA-A868-C95372B5C393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCF0052-CB73-4EDA-A868-C95372B5C393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCF0052-CB73-4EDA-A868-C95372B5C393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F954EB2-614B-48A1-9856-C9CB83F2AAB4}.Debug|Any CPU.ActiveCfg = Debug
+		{6F954EB2-614B-48A1-9856-C9CB83F2AAB4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB82437C-3DB6-474E-AD1D-10FF81685669}
+	EndGlobalSection
+EndGlobal
